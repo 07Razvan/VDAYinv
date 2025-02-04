@@ -51,7 +51,7 @@ $('.kehalaman2').click(function() {
 });
 
 var i = 0;
-var txt = "Ribuan malam ku termenung sendiri, Menunggu seseorang untuk memelukku, Lewati ratusan mimpi tersimpan dalam sanubari, Sendiri di tengah kegelapan yang semu. Terimakasih engkau telah hadir untukku,\nmenemani kesepianku dan telah menjadi penerang dalam gelapku,  I Love You";
+var txt = "yaaaayyy,  I Love You";
 var speed = 200;
 
 function JalaninTeks() {
@@ -64,6 +64,6 @@ function JalaninTeks() {
 
 
 function PuterLagu() {
-    var lagu = document.getElementById("lagu");
-    return lagu.paused ? lagu.play() : lagu.pause();
+    var billie = document.getElementById("lagu");
+    return billie.paused ? billie.play() : billie.pause();
 };
